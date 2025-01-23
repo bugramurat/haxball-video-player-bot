@@ -6,7 +6,7 @@ You can upload **your video** to *project-folder/set-up-video* as *video.mp4* fi
 Use **farthest camera angle** for *the best experience* (***1 key** on the keyboard*). Because of *Haxball's variable limit for stadium elements (max 255 discs)*, video player has **19x13 resolution (247 pixels)** 
 
 ## Preview
-![preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16eXJuNDJjNHpvdTllYWt3MTJjZG5jNzVoYnIxcmJ3ODAxZGpwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfHDwrYJvEGIOWpF3W/giphy.gif)
+![preview](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZrN2tvM2kwaWtqZzA0ZGwyOHRhc3M5cDhkYzduNm04YWx2MzdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CfrbtzqYcFDlV7bfQs/giphy.gif)
 
 ## How to run
 Run this to **download** this project: *(or download manually and go to your project-folder path)*
