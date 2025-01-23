@@ -1,7 +1,7 @@
 # Haxball Video Player Bot
 Haxball video player bot with Haxball Headless API
 <br><br>
-You can upload **your video** to *project-folder/set-up-video* as *video.mp4* file. *(There is an example video at *project-folder/set-up-video*)*
+You can upload **your video** to *project-folder/set-up-video* as *video.mp4* file but videos longer than 2 minutes take longer to process in the *frames2txt.js* file *(There is an example video at *project-folder/set-up-video*)*
 <br><br>
 Use **farthest camera angle** for *the best experience* (***1 key** on the keyboard*). Because of *Haxball's variable limit for stadium elements (max 255 discs)*, video player has **19x13 resolution (247 pixels)** 
 
@@ -36,6 +36,9 @@ Run the bot:
 node video_player_bot.js
 ```
 (You can adjust your room's name and other settings in *video_player_bot.js* file)
+
+## Usage
+Simply **start** the game to **start** *video player* and **stop** the game to **stop** *video player*
 
 ## Libraries
 - haxball.js
